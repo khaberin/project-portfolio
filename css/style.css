@@ -1,0 +1,39 @@
+/* Meow Comment Meow
+
+Greyish: CBCCC9
+Salmon: FFAA8D
+Greeh: 75B246
+
+*/
+
+a{
+    color: #75B246; 
+}
+
+h1{
+    color: #75B246; 
+}
+
+.color1{
+    width: 200px;
+    height: 200px;
+    background-color: #75B246; 
+}
+.color2{
+    width: 200px;
+    height: 200px;
+    background-color: #FFAA8D; 
+}
+.color3{
+    width: 200px;
+    height: 200px;
+    background-color: #CBCCC9; 
+}
+
+body{
+            background-color: white;
+            color: indigo;
+        }    
+        a{
+            color: grey;
+        }
