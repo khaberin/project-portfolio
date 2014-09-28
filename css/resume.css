@@ -1,0 +1,26 @@
+/* Put your styles here. */
+
+    header {
+        text-align: center;
+    }
+    header, h1, h2, body {
+        font-family: sans-serif;
+    }
+
+    header {
+        background-color: maroon;
+    }
+    body {
+        background-color: silver;
+    }
+    header {
+        color: white;
+    }
+  
+
+
+
+
+
+
+/* End of your styles */
