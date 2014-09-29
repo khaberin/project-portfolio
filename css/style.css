@@ -6,6 +6,16 @@ Greeh: 75B246
 
 */
 
+header{
+    background-color: #dddddd;
+    width: 600px;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 5%;
+        
+}
+
 a{
     color: #75B246; 
 }
