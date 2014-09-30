@@ -24,19 +24,18 @@ h1{
     color: #75B246; 
 }
 
-.color1{
+.color1, .color2, .color3{
     width: 200px;
     height: 200px;
+}
+.color1{
     background-color: #75B246; 
 }
+
 .color2{
-    width: 200px;
-    height: 200px;
     background-color: #FFAA8D; 
 }
 .color3{
-    width: 200px;
-    height: 200px;
     background-color: #CBCCC9; 
 }
 
