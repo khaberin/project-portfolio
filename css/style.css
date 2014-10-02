@@ -24,19 +24,37 @@ h1{
     color: #75B246; 
 }
 
-.color1, .color2, .color3{
+.colorwrapper{
+    background-color: orange;
+}
+
+.colorswatch{
     width: 200px;
     height: 200px;
+    float:left;
 }
 .color1{
-    background-color: #75B246; 
+    background-color: #FF7F19; 
 }
 
 .color2{
-    background-color: #FFAA8D; 
+    background-color: #8FF0FF; 
 }
 .color3{
-    background-color: #CBCCC9; 
+    background-color: #B2008B; 
+}
+.clear{
+    clear:both;
+}
+
+.clearfix:before,
+.clearfix:after{
+    content: " ";
+    display:table;
+}
+
+.clearfix:after {
+clear:both;
 }
 
 body{
