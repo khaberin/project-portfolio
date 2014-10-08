@@ -5,6 +5,7 @@ Salmon: FFAA8D
 Greeh: 75B246
 
 */
+@import url(http://fonts.googleapis.com/css?family=Julee);
 
 header{
     background-color: #dddddd;
@@ -13,6 +14,8 @@ header{
     margin-right: auto;
     text-align: center;
     padding: 5%;
+    font-family: 'Julee', cursive;
+    font-size: 1.2em;
         
 }
 
@@ -22,6 +25,7 @@ a{
 
 h1{
     color: #75B246; 
+    font-family: 'Julee', cursive;
 }
 
 .colorwrapper{
@@ -47,20 +51,36 @@ h1{
     clear:both;
 }
 
+body{
+    background-color: white;
+    color: indigo;
+    font-family: Rockwell;"Corier Bold", Georgia, Times, "Times New Roman", serif
+        }    
+a{
+    color: grey;
+    text-decoration: none;
+    font-size: 1.2em;
+        }
+a:hover{
+    text-decoration: underline;
+}
+
+.site-footer a{
+font-size: 2em;
+color:#FF7F19;
+text-decoration: none;    
+}
+
+.site-footer a:hover{
+color: purple;
+text-decoration: underline;    
+}
+
 .clearfix:before,
 .clearfix:after{
     content: " ";
     display:table;
 }
-
 .clearfix:after {
 clear:both;
 }
-
-body{
-            background-color: white;
-            color: indigo;
-        }    
-        a{
-            color: grey;
-        }
