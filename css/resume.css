@@ -4,19 +4,39 @@
         text-align: center;
     }
     header, h1, h2, body {
-        font-family: sans-serif;
+        font-family: 'Old Standard TT', serif;
     }
 
     header {
-        background-color: maroon;
+        background-color: #FFF9A0;
+        
+      
     }
-    body {
-        background-color: silver;
+  body{
+    background-image: url(../resumebackground/dimension.png);
+    
+  }
+
+    header,h1,h2,p,ul {
+        color: #080040;
+        
     }
-    header {
-        color: white;
-    }
-  
+h1{
+    font-size: 3.1em;
+    
+}
+h2{
+    font-size: 1.9em;
+    
+}
+ul, p{
+    font-size: 1.1em;
+    margin-right: 15%;
+    
+}
+  ul{
+list-style-type: square;
+  }
 
 
 
