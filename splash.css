@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    background-image: url('../images/boats-canal-colorful-2951.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-size: 3.5em;
+    color: white;
+    font-family: 'Rock Salt', cursive;
+}
+h2{
+    color: white;
+    font-family: 'Rock Salt', cursive;
+}

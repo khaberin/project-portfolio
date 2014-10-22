@@ -1,0 +1,64 @@
+/* Put your styles here. */
+    
+
+h1{
+font-family: 'Covered By Your Grace', cursive;
+}
+  body{
+    background-image: url(../resumebackground/dimension.png);
+    font-family: 'Architects Daughter', cursive; 
+    color:#57387F;  
+    padding:40px;  
+  }
+    header {
+        text-align: center;
+        background-color: #FFF9A0;
+        color: #080040;
+        font-size: 2.5em;
+    }
+p{
+    font-size: 1.3em;
+}
+h2{
+    font-size: 2em;
+    color:#57387F
+}
+h3{
+    font-size: 1.6em;
+    color:#007F55;
+}
+ul{
+    list-style-type: square;
+    font-size: 1.1em;
+}
+a{
+    text-decoration: none;
+    color: #57387F;
+}
+a:hover{
+    color: #E59308;
+}
+img{
+  float: right;
+    padding: 5px;
+}
+.list{
+    color:#007F55;
+}
+.parts a{
+    color:#4FAFBF; 
+}
+.parts a:hover{
+    color: #E59308;
+}
+
+.clearfix:before,
+.clearfix:after{
+    content: " ";
+    display:table;
+}
+.clearfix:after {
+clear:both;
+}
+
+ /* End of your styles */
